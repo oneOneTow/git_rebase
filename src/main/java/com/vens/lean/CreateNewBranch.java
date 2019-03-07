@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package com.vens.lean;
 
 /**
  * @Description:
@@ -6,4 +6,7 @@ package PACKAGE_NAME;
  * @CreateDate: 2019/3/7 14:03
  */
 public class CreateNewBranch {
+    /**
+     * 创建分支develop
+     */
 }
