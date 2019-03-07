@@ -8,5 +8,6 @@ package com.vens.lean;
 public class Init {
     /**
      * git rebase 学习初始化
+     * 做一下修改
      */
 }
